@@ -13,7 +13,7 @@ Kafka is orchestrated in this project. Currently only docker-compose mode is sup
 
 Now up the containers.
 
-    docker-compose -f kafka-orchestration/docker-compose.yml
+    docker-compose up
     
 Landoop ui will be available at [http://localhost:8000](http://localhost:8000)
 
