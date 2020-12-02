@@ -1,6 +1,6 @@
 # Kafka Orchestration
 
-Kafka is orchestrated in this project. Currently only docker-compose mode is supported.
+Kafka distribution is orchestrated in this project. Currently only docker-compose mode is supported.
 
 ### Orchestrated Components
 
