@@ -1,4 +1,4 @@
-# Kafka Orchestration
+# Kafka Distribution Orchestration
 
 Kafka distribution is orchestrated in this project. Currently only docker-compose mode is supported.
 
